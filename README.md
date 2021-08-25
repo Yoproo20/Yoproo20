@@ -2,7 +2,7 @@
 - 👀 Im just a normal dev
 - 🌱 I’m currently learning HTML CSS and Pythob
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord: Yopro2.0#7777
+- 📫 How to reach me Discord: Yopro2.0#9999
 
 <!---
 Yoproo20/Yoproo20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
